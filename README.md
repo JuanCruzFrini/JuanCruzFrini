@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JuanCruzFrini
 - 👀 I’m interested in Android Projects
 - 🌱 I’m currently learning Kotlin for Android
-- 💞️ I’m looking to collaborate on any company or startup who accept trainee junior Android Developers! 
-I would like to learn working in group! The paymant isn't important for me.
+- 💞️ I’m looking for to collaborate on any company or startup who accept trainee junior Android Developers! 
+I would like to learn working in group! The payment isn't important for me.
 - 📫 How to reach me: 
 Instagram: @juancruz_frini
 Whatsapp:+54 3546 524648
