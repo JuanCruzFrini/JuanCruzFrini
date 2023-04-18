@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Projects
 - 🌱 I’m currently learning Kotlin for Android
 - 💞️ I’m looking for to collaborate on any company or startup who accept trainee junior Android Developers! 
-I would like to learn working in group! The payment isn't important for me.
+I would like to learn working in group!
 - 📫 How to reach me: 
 Instagram: @juancruz_frini
 Whatsapp:+54 3546 524648
