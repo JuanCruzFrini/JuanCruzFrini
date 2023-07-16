@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanCruzFrini
 - 👀 I’m interested in Android Projects
-- 🌱 I’m currently learning Kotlin for Android
+- 🌱 I’m currently learning testing for Android
 - 💞️ I’m looking forward to collaborate on any company or startup who accept junior Android Developers! 
 I would like to learn and improve working in group!
 - 📫 How to reach me: 
